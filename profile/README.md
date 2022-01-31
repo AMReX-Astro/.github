@@ -2,6 +2,12 @@
 
 AMReX-Astro is a collection of astrophysics simulation codes built around the [AMReX](https://github.com/amrex-codes/) adaptive mesh refinement library.
 
+The main codes are:
+
+* [Castro](https://github.com/amrex-astro/Castro): a compressible (magneto-,radiation-) hydrodynamics code for reactive flows.
+* [MAESTROeX](https://github.com/amrex-astro/MAESTROeX): a low-Mach number stratified hydrodynamics code for stellar convection.
+* [Nyx](https://github.com/amrex-astro/Nyx): a cosmological n-body + hydro simulation code for modeling large scale structure in the Universe.
+
 <!--
 
 **Here are some ideas to get you started:**
